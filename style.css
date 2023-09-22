@@ -25,3 +25,8 @@
     color: rgb(2, 249, 2);
     font-size: 70px
 }
+
+.textbox {
+    background-color: white;
+    max-width: 100vw;
+}
